@@ -37,8 +37,14 @@
 	p
 	{
 		line-height: 180%;
-	}
-	
+	}	
+
+	table 
+	{
+		margin: 50px;
+		padding: 70px;
+	}	
+
 	strong
 	{
 	}
@@ -364,7 +370,6 @@
 	
 	.title h2
 	{
-		text-transform: lowercase;
 		font-size: 2.8em;
 	}
 	

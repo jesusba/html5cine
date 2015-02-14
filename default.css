@@ -37,8 +37,13 @@
 	p
 	{
 		line-height: 180%;
-	}
-	
+	}	
+
+	table 
+	{
+		margin: 50px;
+	}	
+
 	strong
 	{
 	}
